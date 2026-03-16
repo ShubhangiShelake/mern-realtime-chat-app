@@ -33,6 +33,5 @@ build/
 .idea/
 
 #package file
-backend/
 package-lock.json
 package.json

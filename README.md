@@ -58,6 +58,92 @@ POST /api/auth/login
 GET /api/chat  
 POST /api/message
 
-## Author
 
-Shubhangi Shelake
+
+
+# MERN Chat Application - Frontend
+
+This is the **frontend of a real-time chat application** built using the MERN stack.
+The frontend is developed using **React.js** and communicates with the backend API to enable messaging features.
+
+---
+
+## 🚀 Tech Stack
+
+* React.js
+* JavaScript (ES6)
+* Axios
+* Socket.io-client
+* CSS / Tailwind CSS
+
+---
+
+## ✨ Features
+
+* User Registration & Login
+* Real-time messaging
+* One-to-one chat
+* Group chat
+* Online / Offline user status
+* Message notifications
+* Responsive UI
+
+---
+
+## 📁 Project Structure
+
+frontend/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── context/
+│   ├── utils/
+│   ├── App.js
+│   └── index.js
+│
+├── package.json
+└── README.md
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+git clone https://github.com/yourusername/mern-realtime-chat-app.git
+
+Go to frontend folder
+
+cd frontend
+
+Install dependencies
+
+npm install
+
+Start the development server
+
+npm start
+
+The application will run on:
+
+http://localhost:3000
+
+---
+
+## 🔗 Backend API
+
+The frontend communicates with the backend API running on:
+
+http://localhost:5000
+
+Make sure the **backend server is running before starting the frontend**.
+
+---
+
+## 👩‍💻 Author
+
+**Shubhangi Shelake**
+
+MERN Stack Developer
